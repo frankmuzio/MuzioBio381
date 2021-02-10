@@ -9,7 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Add a sentence about Knit. Blah blah blah. 
+Just a practice
+
+Adding additional lines
+
+This is a webpage
 
 ## R Markdown
 
